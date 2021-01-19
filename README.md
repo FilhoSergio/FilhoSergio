@@ -20,7 +20,7 @@ Sou desenvolvedor front end e estudante de padrões e arquiteturas web há mais 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![React Badge](https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white)
+
 
 
 
